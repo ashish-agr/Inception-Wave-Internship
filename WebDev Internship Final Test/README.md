@@ -2,4 +2,4 @@ This project was built using Javascript. It is a Realtime Form Validation demo w
 validation according to some parameters. The project was made as the final round of test for an internship 
 at [Inception Wave](https://inceptionwave.in)
 
-Take a look, here:[Realtime Validation Form](https://ashish-agr.github.io/Inception-Wave-Internship/WebDev%20Internship%20Final%20Test/)
+Take a look here: [Realtime Validation Form](https://ashish-agr.github.io/Inception-Wave-Internship/WebDev%20Internship%20Final%20Test/)
